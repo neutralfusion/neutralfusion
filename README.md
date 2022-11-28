@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on FrontEnd projects, especialy React
 - 📫 You can reach me on email at andronache.george@icloud.com
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_text=My%20Page%20Visitors)
+
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=neutralfusion&show_icons=true&theme=dark&hide_border=true&&count_private=true&include_all_commits=true" />
