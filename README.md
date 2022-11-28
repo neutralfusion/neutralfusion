@@ -5,7 +5,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=neutralfusion)
 
 </p>
-<div size='20px'> Hi! My name is Andronache George Eduard. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is Andronache George Eduard. Welcome to my GitHub Profile :smile: 
 </div>
 
 <h2> About Me </h2>
