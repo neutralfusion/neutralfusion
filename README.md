@@ -10,7 +10,7 @@
 
 <h2> About Me </h2>
 
-<img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 
 - 🔭 I’m currently working on SwiftUI App, React App
@@ -19,7 +19,7 @@
 
 - 🙌 I’m looking to collaborate on FrontEnd projects, especially React 
   
-- 📸 I'm also an Automotive Comercial Photographer, check out my portfolio at www.george-eduard.com
+- 📸 Automotive Comercial Photographer, check out my portfolio at www.george-eduard.com
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
