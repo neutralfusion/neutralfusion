@@ -1,11 +1,8 @@
-<div align="center">
-<img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
-</div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=.)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=neutralfusion)
 
 </p>
 <div size='20px'> Hi! My name is Andronache George Eduard. Thank You for taking the time to view my GitHub Profile :smile: 
@@ -16,13 +13,13 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 
-- 🔭 I’m currently working on Github projects, blogs etc...
+- 🔭 I’m currently working on SwiftUI App, React App
 
-- 🌱 I’m currently learning Data Science, AWS, Data Engineering etc... 
+- 🌱 I’m currently learning React, .NET Developing, FrontEnd etc... 
 
-- 👯 I’m looking to collaborate on projects, tech articles... 
+- 👯 I’m looking to collaborate on FrontEnd projects, especially React 
 
-- 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source... 
+- 💬 Talk to me about UI/UX, JavaScript, Freelancing Opportunites, React, Photography 
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
@@ -33,7 +30,7 @@
 <a href= https://github.com/?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
+<h2> Connect with me </h2>
 <a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/george-eduard/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://george-eduard.com'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 
@@ -44,9 +41,6 @@
 ![Metrics](https://metrics.lecoq.io/?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
 
 
-
-<br>
-<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
 
 <!---
 neutralfusion/neutralfusion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
