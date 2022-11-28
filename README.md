@@ -17,9 +17,7 @@
 
 - 🌱 I’m currently learning React, .NET Developing, FrontEnd etc... 
 
-- 👯 I’m looking to collaborate on FrontEnd projects, especially React 
-
-- 💬 Talk to me about UI/UX, JavaScript, Freelancing Opportunites, React, Photography 
+- 🙌 I’m looking to collaborate on FrontEnd projects, especially React 
   
 - 📸 I'm also an Automotive Comercial Photographer, check out my portfolio at www.george-eduard.com
 
