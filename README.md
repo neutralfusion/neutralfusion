@@ -12,6 +12,7 @@
 
 <img width="300" align="right" alt="Github" src="https://i.imgur.com/V6Fnmgz.png" />
 
+<br>
 - 👨🏼‍🎓 Studying Software Engineering at VIA University College in Denmark
 
 - 🔭 I’m currently working on SwiftUI App, React App
