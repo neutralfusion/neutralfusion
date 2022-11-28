@@ -10,7 +10,7 @@
 
 <h2> About Me </h2>
 
-<img width="55%" align="right" alt="Github" src="https://i.imgur.com/owE7lnS.png" />
+<img width="55%" align="right" alt="Github" src="https://i.imgur.com/owE7lnS.png](https://i.imgur.com/owE7lnS.png" />
 
 
 - 🔭 I’m currently working on SwiftUI App, React App
