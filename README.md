@@ -2,7 +2,7 @@
 - 👀 I’m interested in FrontEnd Developing, UI/UX Design
 - 🌱 I’m currently learning SwiftUI, React and .NET
 - 💞️ I’m looking to collaborate on FrontEnd projects, especialy React
-- 📫 You can reach me on 
+- 📫 You can reach me on email at andronache.george@icloud.com
 
 
 
