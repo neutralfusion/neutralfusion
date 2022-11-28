@@ -10,7 +10,7 @@
 
 <h2> About Me </h2>
 
-<img width="400" align="right" alt="Github" src="https://i.imgur.com/V6Fnmgz.png" />
+<img width="300" align="right" alt="Github" src="https://i.imgur.com/V6Fnmgz.png" />
 
 - 👨🏼‍🎓 Studying Software Engineering at VIA University College in Denmark
 
