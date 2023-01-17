@@ -16,11 +16,13 @@
   
 - 👨🏼‍🎓 Studying Software Engineering at VIA University College in Denmark
 
-- 🔭 I’m currently working on SwiftUI App, React App
+- 🔭 I’m currently working on SwiftUI App
 
 - 🌱 I’m currently learning React, .NET Developing, FrontEnd etc... 
 
 - 🙌 I’m looking to collaborate on FrontEnd projects, especially React 
+  
+- ⚡️ UI/UX Designer, you can find my work here https://dribbble.com/George-Eduard 
   
 - 📸 I'm also an Automotive Comercial Photographer, check out my portfolio at www.george-eduard.com
 
