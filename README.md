@@ -18,9 +18,9 @@
 
 - 🔭 I’m currently working on SwiftUI App
 
-- 🌱 I’m currently learning React, .NET Developing, FrontEnd etc... 
+- 🌱 I’m currently learning React.js, Next.js, JavaScript etc... 
 
-- 🙌 I’m looking to collaborate on FrontEnd projects, especially React 
+- 🙌 I’m looking to collaborate on Web3 projects, especially FrontEnd 
   
 - ⚡️ UI/UX Designer, you can find my work here https://dribbble.com/George-Eduard 
   
