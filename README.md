@@ -5,7 +5,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=neutralfusion)
 
 </p>
-<div size='20px'> Im coding cool things sometimes :smile: 
+<div size='20px'> Im coding and designing cool things sometimes :smile: 
 </div>
 
 <h2> About Me </h2>
