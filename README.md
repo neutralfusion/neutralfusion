@@ -16,11 +16,11 @@
   
 - 👨🏼‍🎓 Studying Software Engineering at VIA University College in Denmark
 
-- 🔭 I’m currently working on SwiftUI App
+- 🔭 I’m currently working on a Blockchain App
 
-- 🌱 I’m currently learning React.js, Next.js, JavaScript etc... 
+- 🌱 I’m currently learning React.js, Next.js, Solidity etc... 
 
-- 🙌 I’m looking to collaborate on Web3 projects, especially FrontEnd 
+- 🙌 I’m looking to collaborate on Web3 projects, especially on ETH 
   
 - ⚡️ UI/UX Designer, you can find my work here https://dribbble.com/George-Eduard 
   
